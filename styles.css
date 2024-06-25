@@ -36,10 +36,14 @@ header nav ul li a:hover {
 }
 
 /* Estilos de las secciones */
+.inicio {
+    text-align: center;
+    
+}
 section {
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #fff;
+    background-color: #5bf3a7;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
