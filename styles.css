@@ -2,10 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
-    background-color: #11e21b;
-=======
->>>>>>> ca680c3ea035297ea00e86b7b494ce6c4596a6a5
+    background-color: #fbfcfb;
 }
 
 header {
@@ -32,6 +29,26 @@ nav ul li a {
 
 main {
     padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card {
+    border: 1px solid rgb(3, 157, 8);
+    padding-right: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.Container2{
+    text-align: center;
+}
+
+.separador {
+    height: 60px; 
 }
 
 footer {
